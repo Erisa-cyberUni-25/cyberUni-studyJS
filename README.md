@@ -1,2 +1,2 @@
-# cyberUni-studyJS
+# 概要
 JavaScriptのフレームワーク学習
